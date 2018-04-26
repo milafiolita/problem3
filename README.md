@@ -1,5 +1,6 @@
 # project-euler-problem-3
 Project Euler Problem #3
+[![CircleCI](https://circleci.com/gh/milafiolita/problem3.svg?style=shield)](https://circleci.com/gh/milafiolita/problem3)
 
 Largest prime factor
 
